@@ -43,7 +43,7 @@ commonmark==0.9.1
 configparser==5.0.2
 croniter==1.0.15
 cryptography==3.4.7
-dask==2021.6.2
+dask==2021.10.0
 defusedxml==0.7.1
 dill==0.3.4
 distlib==0.3.2
